@@ -1,8 +1,6 @@
 Atari AI A3C Agent
 
 
- Atari AI A3C Agent
-
 This repository contains an implementation of an Atari AI Agent using Asynchronous Advantage Actor-Critic (A3C) with PyTorch and Gymnasium. The agent is designed to learn and play Atari games, specifically the "KungFuMasterDeterministic-v0" environment. It uses convolutional neural networks (CNNs) to process game frames and reinforcement learning techniques to train the agent.
 
  Requirements
